@@ -1,0 +1,5 @@
+Python>=3.6
+tensorflow>=2.0,<3.0
+pandas
+numpy
+matplotlib
